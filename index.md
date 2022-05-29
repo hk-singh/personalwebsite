@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Blog"
+title: ""
 ---
 
 I am a Vehicle test engineer at Oxbotica Ltd. My goal is to test and find edge cases that can fail an autonomous vehicle.
