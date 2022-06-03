@@ -9,8 +9,9 @@ In Heavy Goods Vehicles (HGVs), tyre selection is a key factor for the operation
 
 Subsequently, a framework was developed in MATLAB/Simulink environment for modelling the vehicle dynamics using measured GPS routes from in-service vehicles. The framework helped in establishing the effect of lateral load transfer on tyre wear at small radius turns and roundabouts. After integrating the tyre wear model with the framework, tread-depth loss was predicted for six months of collected data from in-service vehicles. These predictions approximately agree with the field observations.
 
-<p align="center">
+<p.align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gWutJWOZcgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ## Developing a rule-based algorithm for anti-lock braking system (ABS) in heavy commercial road vehicles
 
