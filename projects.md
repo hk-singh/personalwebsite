@@ -4,7 +4,8 @@ title: "Projects"
 ---
 
 ## Experimental modelling of abrasive tyre wear in heavy goods vehicles
-include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gWutJWOZcgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In Heavy Goods Vehicles (HGVs), tyre selection is a key factor for the operational costs. Tyres are generally designed based on a trade-off between wear resistance and grip, indirectly affect ing rolling resistance. Low rolling resistance tyres increase the fuel efficiency, however, they have to be replaced very often. At present, it is difficult to find the optimal tyres that will minimise the fuel consumption and replacement cost because of a lack of an accurate wear prediction model. In this project, an empirical tyre wear prediction model, for two different tyres: FuelMAX (designed for low rolling resistance) and KMAX (designed for longer life), was developed through experiments. The wear model was quantified as a function of tyre vertical load and sideslip angle, subsuming other dependencies. 
 
