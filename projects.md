@@ -21,7 +21,7 @@ This work provided a rule-based algorithm based on the conventional Bosch eight-
 
 |Eight phase algorithm control logic|Eight phase control loop|
 |:-:|:-:|
-|![Eight phase algorithm control logic](assets/Eight_phase_flow_chart-1.png?h=75%&w=50%)| ![Eight phase control loop](assets/Eight_phase_controlloop-1.png?h=75%&w=50%)|
+|![Eight phase algorithm control logic](assets/Eight_phase_flow_chart-1.png?h=720&w=1260)| ![Eight phase control loop](assets/Eight_phase_controlloop-1.png?h=720&w=1260)|
 
 
 ## Simulation of wheel-lock event in a brake inertia dynamometer
