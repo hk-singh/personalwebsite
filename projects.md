@@ -19,7 +19,9 @@ Subsequently, a framework was developed in MATLAB/Simulink environment for model
 
 This work provided a rule-based algorithm based on the conventional Bosch eight-phase algorithm for hydraulic braking system. The algorithm was tuned to suit the actuator dynamics of a pneumatic braking system. This rule-based algorithm was integrated with a PID brake controller along with a delay compensation technique. The control algorithm was evaluated in a Hardware-in-Loop (HiL) setup for different roads, loads and initial braking speeds. The performance of the algorithm was compared with a sliding-mode controller (SMC) based algorithm in terms of stopping distance and mean wheel slip.
 
-![Eight phase algorithm control logic](assets/Eight_phase_flow_chart-1.png){width=50%} ![Eight phase control loop](assets/Eight_phase_controlloop-1.png){width=50%}
+|Eight phase algorithm control logic|Eight phase control loop|
+|:-:|:-:|
+|![Eight phase algorithm control logic](assets/Eight_phase_flow_chart-1.png?h=750&w=1260)|![Eight phase control loop](assets/Eight_phase_controlloop-1.png?h=750&w=1260)|
 
 
 <div id="image-table">
