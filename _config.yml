@@ -5,8 +5,7 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-<iframe src="hk-singh.github.io/Harsh_Singh_CV.pdf" width="100% height=100%">
-</iframe>
+
 
 # Layout
 #show_social: true
